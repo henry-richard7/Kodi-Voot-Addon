@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Kodi-Voot-Addon/total.svg?style=for-the-badge&logo=github)
+
 # Kodi Voot Addon
  This Kodi addon allows you to watch Movies and TV Shows from Voot OTT platform without Voot Account.
 
